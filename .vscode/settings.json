@@ -1,5 +1,7 @@
 {
-  "python.testing.pytestArgs": ["PRE_03_clasificacion_basica_imagenes"],
+  "python.testing.pytestArgs": [
+    "."
+  ],
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true
 }
